@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\itcarlow_3\Advanced Programming\c++\binerytree\binerytree\bin\Debug\binerytree.exe
+C:\Users\Alan\Desktop\itcarlow_3\Advanced Programming\c++\binerytree\binerytree\bin\Debug\binerytree.pdb
+C:\Users\Alan\Desktop\itcarlow_3\Advanced Programming\c++\binerytree\binerytree\obj\x86\Debug\binerytree.exe
+C:\Users\Alan\Desktop\itcarlow_3\Advanced Programming\c++\binerytree\binerytree\obj\x86\Debug\binerytree.pdb
+C:\Users\Alan\Desktop\itcarlow_3\Advanced Programming\c++\binerytree\binerytree\obj\x86\Debug\binerytree.csprojResolveAssemblyReference.cache
